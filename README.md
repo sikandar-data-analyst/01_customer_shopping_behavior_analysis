@@ -239,7 +239,7 @@ This project shows a complete analytics workflow, from raw data to a business-re
 
 ## 👤 Author
 
-**[Your Name]**
+SIKANDAR KHAN
 Aspiring Data Analyst
 
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | 💻 [GitHub](https://github.com/your-username) | 📧 your.email@example.com
+🔗 [LinkedIn](https://www.linkedin.com/in/sikandar-khan-5ba465422/) | 💻 [GitHub](https://github.com/sikandar-data-analyst) | 📧 sikandarkhankhan980@gmail.com
