@@ -2,7 +2,13 @@
 
 **End-to-end data analysis project using Python, SQL, and Power BI to understand customer spending, subscriptions, discounts, and product performance.**
 
-![Customer Behavior Dashboard](Customer_behavior_dashboard_Screenshot.jpg)
+<h2 align="center">📊 Customer Behavior Dashboard</h2>
+
+<p align="center">
+  <img src="05_PowerBI_Dashboard/Customer_behavior_dashboard_Screenshot.jpg"
+       alt="Customer Behavior Dashboard"
+       width="100%">
+</p>
 
 ---
 
